@@ -63,7 +63,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/on7xelte/proprietary/lib/hw/audio.r_submix.default.so:system/lib/hw/audio.r_submix.default.so \
     vendor/samsung/on7xelte/proprietary/lib/hw/camera.vendor.universal7870.so:system/lib/hw/camera.vendor.universal7870.so \
     vendor/samsung/on7xelte/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-    vendor/samsung/on7xelte/proprietary/lib/hw/gralloc.exynos5.so:system/lib/hw/gralloc.exynos5.so \
     vendor/samsung/on7xelte/proprietary/lib/hw/sensors.universal7870.so:system/lib/hw/sensors.universal7870.so \
     vendor/samsung/on7xelte/proprietary/lib/libHpr_RecFace_dl_v1.0.so:system/lib/libHpr_RecFace_dl_v1.0.so \
     vendor/samsung/on7xelte/proprietary/lib/libHpr_RecGAE_cvFeature_v1.0.so:system/lib/libHpr_RecGAE_cvFeature_v1.0.so \
@@ -82,16 +81,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/on7xelte/proprietary/lib/libbauthserver.so:system/lib/libbauthserver.so \
     vendor/samsung/on7xelte/proprietary/lib/libbauthtzcommon.so:system/lib/libbauthtzcommon.so \
     vendor/samsung/on7xelte/proprietary/lib/libcodecdump.so:system/lib/libcodecdump.so \
-    vendor/samsung/on7xelte/proprietary/lib/libcsc.so:system/lib/libcsc.so \
     vendor/samsung/on7xelte/proprietary/lib/libegis_fp_normal_sensor_test.so:system/lib/libegis_fp_normal_sensor_test.so \
     vendor/samsung/on7xelte/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/on7xelte/proprietary/lib/libexynoscamera3.so:system/lib/libexynoscamera3.so \
-    vendor/samsung/on7xelte/proprietary/lib/libexynosgscaler.so:system/lib/libexynosgscaler.so \
-    vendor/samsung/on7xelte/proprietary/lib/libexynosscaler.so:system/lib/libexynosscaler.so \
-    vendor/samsung/on7xelte/proprietary/lib/libexynosutils.so:system/lib/libexynosutils.so \
-    vendor/samsung/on7xelte/proprietary/lib/libexynosv4l2.so:system/lib/libexynosv4l2.so \
     vendor/samsung/on7xelte/proprietary/lib/libfloatingfeature.so:system/lib/libfloatingfeature.so \
-    vendor/samsung/on7xelte/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/on7xelte/proprietary/lib/libpreprocessing_nxp.so:system/lib/libpreprocessing_nxp.so \
     vendor/samsung/on7xelte/proprietary/lib/libprotobuf-cpp-N.so:system/lib/libprotobuf-cpp-N.so \
     vendor/samsung/on7xelte/proprietary/lib/libprotobuf-cpp-fooo.so:system/lib/libprotobuf-cpp-fooo.so \
